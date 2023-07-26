@@ -18,13 +18,13 @@ function HomePage() {
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiyUBXfrWvKaiElCYkP7wa50L-5g2lfLTnsbI6uOLaqoMosoLyj5nVQdNSQ8CsFXxTVJA3LHdrwOcrpMxk-6Ugta1AFxRCAJc3TO18l447aBw_bjIeD3Z2luAhrikuPTBK_fFmsSrz8QmM84qEhhcxPhffrYj0RouxfBLKXJ39OGmOqR6SSsRgjmnFp=s320" />
       
       {/* Verified Section */}
-      <div>
+      <div  style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
         <h2 style={{ textDecoration: 'underline' }}>Verified:</h2>
         <p>
-          Issuing Authority: (MUHAMMAD ASAD MEHMOOD)<br />
-          Section Officer (E-2)<br />
-          Government of Pakistan<br />
-          Allow For All Pakistan
+          <strong>Issuing Authority: (MUHAMMAD ASAD MEHMOOD)</strong><br />
+          <strong>Section Officer (E-2)</strong><br />
+          <strong>Government of Pakistan</strong><br />
+          <strong>Allow For All Pakistan</strong>
         </p>
       </div>
       {/* User Information */}
