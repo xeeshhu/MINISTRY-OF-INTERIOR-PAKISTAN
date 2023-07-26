@@ -2,11 +2,15 @@
 function HomePage() {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
-      {/* Picture */}
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
+      {/* Picture with Hyperlink */}
+      <a href="https://www.ministryofinteriorpakistan.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
+      </a>
 
-      {/* Header */}
-      <p style={{ color: 'red' }}>VERIFICATION BLACK TINTED PERMIT</p>
+      {/* Header with Hyperlink */}
+      <a href="https://www.ministryofinteriorpakistan.com/" target="_blank" rel="noopener noreferrer">
+        <p style={{ color: 'red' }}>VERIFICATION BLACK TINTED PERMIT</p>
+      </a>
       <h1>MINISTRY OF INTERIOR PAKISTAN</h1>
       <p>Permission to use Tinted Glasses</p>
 
@@ -15,7 +19,7 @@ function HomePage() {
       
       {/* Verified Section */}
       <div>
-        <h2>Verified:</h2>
+        <h2 style={{ textDecoration: 'underline' }}>Verified:</h2>
         <p>
           Issuing Authority: (MUHAMMAD ASAD MEHMOOD)<br />
           Section Officer (E-2)<br />
@@ -45,7 +49,7 @@ function HomePage() {
         <strong>Colour:</strong> BLACK
       </p>
       {/* Copyright */}
-<p style={{ color: 'grey' }}>Copyright</p>
+      <p style={{ color: 'grey' }}>Copyright</p>
       <p>
         @2023 Ministry of Interior Pakistan | Phone No: 051-9206660 | Fax No: 051-9204193 | Email ID: dslaw2@interior.gov.pk
       </p>
