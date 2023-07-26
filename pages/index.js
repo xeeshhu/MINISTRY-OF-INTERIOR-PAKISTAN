@@ -28,7 +28,7 @@ function HomePage() {
         </p>
       </div>
     </div>
-  <div>
+    <div>
       {/* User Information */}
       <h2>User Information</h2>
       <p>
