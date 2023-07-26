@@ -6,11 +6,24 @@ function HomePage() {
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
 
       {/* Header */}
-      <h1 style={{ color: 'red' }}>VERIFICATION BLACK TINTED PERMIT</h1>
+      <p style={{ color: 'red' }}>VERIFICATION BLACK TINTED PERMIT</p>
+      <h1>MINISTRY OF INTERIOR PAKISTAN</h1>
+      <p>Permission to use Tinted Glasses</p>
 
       {/* Picture after Title */}
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiyUBXfrWvKaiElCYkP7wa50L-5g2lfLTnsbI6uOLaqoMosoLyj5nVQdNSQ8CsFXxTVJA3LHdrwOcrpMxk-6Ugta1AFxRCAJc3TO18l447aBw_bjIeD3Z2luAhrikuPTBK_fFmsSrz8QmM84qEhhcxPhffrYj0RouxfBLKXJ39OGmOqR6SSsRgjmnFp=s320" />
-
+      
+      {/* Verified Section */}
+      <div>
+        <h2>Verified:</h2>
+        <p>
+          Issuing Authority: (MUHAMMAD ASAD MEHMOOD)<br />
+          Section Officer (E-2)<br />
+          Government of Pakistan<br />
+          Allow For All Pakistan
+        </p>
+      </div>
+        
       {/* User Information */}
       <h2>User Information</h2>
       <p>
