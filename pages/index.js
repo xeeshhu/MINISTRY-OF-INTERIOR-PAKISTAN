@@ -29,6 +29,7 @@ function HomePage() {
       </div>
 
       {/* User Information */}
+      <div>
       <h2>User Information</h2>
       <p>
         <strong>Name:</strong> SYED KASHIF RASHEED<br />
@@ -37,9 +38,10 @@ function HomePage() {
         <strong>City:</strong> KARACHI<br />
         <strong>Address:</strong> Civic view apartments dhora g Bahadurabad
       </p>
-
+        </div>
       {/* Vehicles Information */}
-      <h2>Vehicles Information</h2>
+      <div>
+              <h2>Vehicles Information</h2>
       <p>
         <strong>Chasis No:</strong> Y031886<br />
         <strong>Engine No:</strong> 4D56-CU4106<br />
@@ -48,6 +50,7 @@ function HomePage() {
         <strong>Car No:</strong> ASY-838<br />
         <strong>Colour:</strong> BLACK
       </p>
+        </div>
       {/* Copyright */}
       <p style={{ color: 'grey' }}>Copyright</p>
       <p>
