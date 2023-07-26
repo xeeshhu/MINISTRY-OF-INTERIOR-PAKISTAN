@@ -27,7 +27,6 @@ function HomePage() {
           Allow For All Pakistan
         </p>
       </div>
-    </div>
       {/* User Information */}
       <div>
       <h2>User Information</h2>
@@ -56,6 +55,7 @@ function HomePage() {
       <p>
         @2023 Ministry of Interior Pakistan | Phone No: 051-9206660 | Fax No: 051-9204193 | Email ID: dslaw2@interior.gov.pk
       </p>
+    </div>
   );
 }
 
