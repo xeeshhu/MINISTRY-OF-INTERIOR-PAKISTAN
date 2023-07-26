@@ -27,8 +27,7 @@ function HomePage() {
           Allow For All Pakistan
         </p>
       </div>
-    </div>
-    <div>
+
       {/* User Information */}
       <h2>User Information</h2>
       <p>
