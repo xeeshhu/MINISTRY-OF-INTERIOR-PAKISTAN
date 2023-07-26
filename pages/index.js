@@ -1,7 +1,7 @@
 // pages/index.js
 function HomePage() {
   return (
-    <div>
+    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
       {/* Picture */}
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
 
@@ -45,11 +45,9 @@ function HomePage() {
         <strong>Colour:</strong> BLACK
       </p>
       {/* Copyright */}
+<p style={{ color: 'grey' }}>Copyright</p>
       <p>
-        @2023 Ministry of Interior Pakistan<br />
-        Phone No: 051-9206660<br />
-        Fax No: 051-9204193<br />
-        Email ID: dslaw2@interior.gov.pk
+        @2023 Ministry of Interior Pakistan | Phone No: 051-9206660 | Fax No: 051-9204193 | Email ID: dslaw2@interior.gov.pk
       </p>
     </div>
   );
