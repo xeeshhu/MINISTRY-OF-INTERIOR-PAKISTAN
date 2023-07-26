@@ -1,7 +1,7 @@
 // pages/index.js
 function HomePage() {
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
+    <div style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}>
       {/* Picture with Hyperlink */}
       <a href="https://www.interior.gov.pk/" target="_blank" rel="noopener noreferrer">
         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
@@ -18,7 +18,7 @@ function HomePage() {
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiyUBXfrWvKaiElCYkP7wa50L-5g2lfLTnsbI6uOLaqoMosoLyj5nVQdNSQ8CsFXxTVJA3LHdrwOcrpMxk-6Ugta1AFxRCAJc3TO18l447aBw_bjIeD3Z2luAhrikuPTBK_fFmsSrz8QmM84qEhhcxPhffrYj0RouxfBLKXJ39OGmOqR6SSsRgjmnFp=s320" />
       
       {/* Verified Section */}
-      <div  style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
+      <div  style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}>
         <h2 style={{ textDecoration: 'underline' }}>Verified:</h2>
         <p>
           <strong>Issuing Authority: (MUHAMMAD ASAD MEHMOOD)</strong><br />
