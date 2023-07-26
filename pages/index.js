@@ -2,29 +2,22 @@
 function HomePage() {
   return (
     <div>
-      <h1>Hello, World!</h1>
-      <p>This is my homepage content.</p>
+      {/* Picture */}
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
+
+      {/* Header */}
+      <h1 style={{ color: 'red' }}>VERIFICATION BLACK TINTED PERMIT</h1>
+
+      {/* Picture after Title */}
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiyUBXfrWvKaiElCYkP7wa50L-5g2lfLTnsbI6uOLaqoMosoLyj5nVQdNSQ8CsFXxTVJA3LHdrwOcrpMxk-6Ugta1AFxRCAJc3TO18l447aBw_bjIeD3Z2luAhrikuPTBK_fFmsSrz8QmM84qEhhcxPhffrYj0RouxfBLKXJ39OGmOqR6SSsRgjmnFp=s320" />
 
       {/* User Information */}
       <h2>User Information</h2>
-      <p>
-        <strong>Name:</strong> ABDUL REHMAN KHAN<br />
-        <strong>Father Name:</strong> MUHAMMAD NAZEER<br />
-        <strong>CNIC:</strong> 42501-9651061-7<br />
-        <strong>City:</strong> KARACHI<br />
-        <strong>Address:</strong> PHAN QAIDABAD BILMUKABIL SSP OFFICE NUMBER 1, BLOCK 36 AREA LAND MALIR KARACHI
-      </p>
+      {/* ... Rest of the user information code ... */}
 
       {/* Vehicles Information */}
       <h2>Vehicles Information</h2>
-      <p>
-        <strong>Chasis No:</strong> CL049WLJ-400453<br />
-        <strong>Engine No:</strong> 4D56-CU4106<br />
-        <strong>Model:</strong> 1990<br />
-        <strong>Make:</strong> JEEP<br />
-        <strong>Car No:</strong> BC-0518<br />
-        <strong>Colour:</strong> NOT DEFINED
-      </p>
+      {/* ... Rest of the vehicles information code ... */}
 
       {/* Copyright */}
       <p>
