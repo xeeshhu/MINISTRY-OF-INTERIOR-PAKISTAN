@@ -13,12 +13,24 @@ function HomePage() {
 
       {/* User Information */}
       <h2>User Information</h2>
-      {/* ... Rest of the user information code ... */}
+      <p>
+        <strong>Name:</strong> SYED KASHIF RASHEED<br />
+        <strong>Father Name:</strong> SYED RASHEED AHMED<br />
+        <strong>CNIC:</strong> 42101-0999821-3<br />
+        <strong>City:</strong> KARACHI<br />
+        <strong>Address:</strong> Civic view apartments dhora g Bahadurabad
+      </p>
 
       {/* Vehicles Information */}
       <h2>Vehicles Information</h2>
-      {/* ... Rest of the vehicles information code ... */}
-
+      <p>
+        <strong>Chasis No:</strong> Y031886<br />
+        <strong>Engine No:</strong> 4D56-CU4106<br />
+        <strong>Model:</strong> 2010<br />
+        <strong>Make:</strong> TOYOTA<br />
+        <strong>Car No:</strong> ASY-838<br />
+        <strong>Colour:</strong> BLACK
+      </p>
       {/* Copyright */}
       <p>
         @2023 Ministry of Interior Pakistan<br />
