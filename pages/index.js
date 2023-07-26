@@ -3,12 +3,12 @@ function HomePage() {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
       {/* Picture with Hyperlink */}
-      <a href="https://www.ministryofinteriorpakistan.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.interior.gov.pk/" target="_blank" rel="noopener noreferrer">
         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjlO-rczSyJygdhYKrEbIFg4mHx1tl_gTyQvMSf89F0XOyogdyAqd_7x1RCBEX1NrYi8aXmpOIbxqhHj_S2o4KAvnIoGMxYtUzwjF7xe7Y52ALt7tKM3bKCdfdT4QxPJ9gdH2zYiXNIHtJxEq8IyhsYjYr1GPi8SSbAPhTjg5g2to101vqYxDDyWdfs=w800" />
       </a>
 
       {/* Header with Hyperlink */}
-      <a href="https://www.ministryofinteriorpakistan.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.interior.gov.pk/" target="_blank" rel="noopener noreferrer">
         <p style={{ color: 'red' }}>VERIFICATION BLACK TINTED PERMIT</p>
       </a>
       <h1>MINISTRY OF INTERIOR PAKISTAN</h1>
@@ -27,7 +27,8 @@ function HomePage() {
           Allow For All Pakistan
         </p>
       </div>
-        
+    </div>
+  <div>
       {/* User Information */}
       <h2>User Information</h2>
       <p>
